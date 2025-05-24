@@ -1,8 +1,8 @@
+scikit-learn==1.0.2
 streamlit
 pandas
-scikit-learn
-sentence-transformers
 numpy
 scipy
+sentence-transformers
 PyPDF2
 python-docx
