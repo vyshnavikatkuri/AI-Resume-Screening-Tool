@@ -90,7 +90,7 @@ streamlit run newstreamlit.py
 ## 🙋‍♀️ Developed by
 
 **Vyshnavi Katkuri**
-B.Tech IT Student | ML Enthusiast | Deep Learning Explorer
+B.Tech CSE Student | ML Enthusiast | Deep Learning Explorer
 🔗 [GitHub](https://github.com/vyshnavikatkuri)
 
 ---
